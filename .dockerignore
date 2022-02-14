@@ -1,1 +1,3 @@
 Dockerfile
+deployment.yaml
+web-admins-role.yaml
